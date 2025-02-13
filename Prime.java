@@ -1,0 +1,7 @@
+class Prime
+{
+
+pubic static 
+
+
+}
